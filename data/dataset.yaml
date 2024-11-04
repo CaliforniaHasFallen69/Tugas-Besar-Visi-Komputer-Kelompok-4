@@ -1,0 +1,17 @@
+# Paths to the datasets
+train: dataset/train/images # path to train images
+val: dataset/valid/images # path to validation images
+test: dataset/test/images # path to test images (if available)
+
+# Paths to the labels
+labels:
+  train: dataset/train/labels
+  val: dataset/valid/labels
+  test: dataset/test/labels
+
+# Classes
+names:
+  0: broom
+  1: cupboard
+  2: chair
+  3: table
