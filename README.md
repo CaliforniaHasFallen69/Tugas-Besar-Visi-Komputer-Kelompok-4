@@ -34,8 +34,8 @@ Sebelum menjalankan program, pastikan Anda telah menginstal:
 
 # Penggunaan
 
-1. Clone YOLOv5 Framework dari github :
-   https://github.com/ultralytics/yolov5
+1. Clone YOLOv5 Framework dari github
+   Sumber Framework : https://github.com/ultralytics/yolov5
 2. Install dependensi yang tertera pada file 'requirements.txt dengan command : pip install requirements.txt
 3. Download dataset dari roboflow dengan format YOLOv5pytorch.txt
 4. Masukkan dataset tersebut dengan nama folder adalah dataset2 dalam satu folder project
